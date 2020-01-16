@@ -8,7 +8,7 @@ output: statsr:::statswithr_lab
 <div class="instructions">
 
 </div>
-## Getting Started
+## Yeet
 
 If you have not ever used GitHub, you will first need to go in and create an account.
 Look at the guidlines on Jenny Bryant's Happy Git with R website: https://happygitwithr.com/github-acct.html
@@ -117,7 +117,7 @@ Type the following lines of code in the console in RStudio filling in your name 
 The email address is the one tied to your GitHub account.
 ```{r get your github congfigured}
 library(usethis)
-use_git_config(user.name = "GitHub username", user.email="your email")
+use_git_config(user.name = "smashstars", user.email="siriphone456@gmail.com")
 ```
 For example, Joan's  would be
 
